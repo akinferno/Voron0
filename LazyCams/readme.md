@@ -54,20 +54,20 @@ on this mod is appreciated.
 
 **Model A**
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073" width="800" />
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/2abf5e61-78a8-481e-b3b9-96399e92bac3" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/2abf5e61-78a8-481e-b3b9-96399e92bac3" width="800" />
 
 
 **Model B**
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/b06e1a90-fb38-445a-88f8-5074cdd3a7d7" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/b06e1a90-fb38-445a-88f8-5074cdd3a7d7" width="800" />
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/35e33408-d76f-4dd6-80b7-b4edd6b68171" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/35e33408-d76f-4dd6-80b7-b4edd6b68171" width="800" />
 
 
 **Model C**
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/690d2957-9167-4c14-83db-db753dfac838" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/690d2957-9167-4c14-83db-db753dfac838" width="800" />
 
-<img src="https://github.com/akinferno/Voron0/assets/48421845/e992692d-23df-4c3d-9fd1-4146820dea47" max-width="800" />
+<img src="https://github.com/akinferno/Voron0/assets/48421845/e992692d-23df-4c3d-9fd1-4146820dea47" width="800" />
