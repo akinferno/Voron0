@@ -1,6 +1,5 @@
-![image](https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073)
+![LazyCam Model A-C Comparison](https://github.com/akinferno/Voron0/assets/48421845/e4a4619b-ed5e-4190-bae1-ef9e3304203c)
 
-![image](https://github.com/akinferno/Voron0/assets/48421845/2abf5e61-78a8-481e-b3b9-96399e92bac3)
 
 Thank you to the Voron Design team for the all your hard work and amazing printers.
 
@@ -30,4 +29,7 @@ The cams should be oriented with the Voron logo up. They need supports to ensure
 I will create a Github this weekend and update this listing with a link. I will host the CAD file there. I am still figuring out the file/workflow management in CAD, so it is sloppy. Feedback 
 on this mod is appreciated.
 
-I have 3 other ideas for locking cams. I will call them LazyCams. This one is model A. I will add B, C and D models as I complete them.  Model B should be done this week, or next.
+
+![image](https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073)
+
+![image](https://github.com/akinferno/Voron0/assets/48421845/2abf5e61-78a8-481e-b3b9-96399e92bac3)
