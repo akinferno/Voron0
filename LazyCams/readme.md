@@ -31,6 +31,8 @@ on this mod is appreciated.
 
 
 **Model A**
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073)" width="800" />
+
 ![image](https://github.com/akinferno/Voron0/assets/48421845/baf4d7b9-1caa-4b8a-b95f-0f0222974073)
 
 ![image](https://github.com/akinferno/Voron0/assets/48421845/2abf5e61-78a8-481e-b3b9-96399e92bac3)
