@@ -13,3 +13,6 @@ Install KAMP:
   
 Install ShakeTune from Klippain:
   https://github.com/Frix-x/klippain-shaketune
+
+Install Virtual Pins:
+https://github.com/pedrolamas/klipper-virtual-pins
